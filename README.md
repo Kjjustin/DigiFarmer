@@ -15,10 +15,10 @@
 - **QR Code Generation**: [Libraries used for QR code generation]
 
 ## Installation
-- **Clone the repository**:git clone https://github.com/Kjjustin/DigiFarmer.git
-- **Navigate to the project folder**:cd DigiFarmer
-- **Install dependencies**:pip install -r requirements.txt
-- **Run the application**:python app.py
+- **Clone the repository**: git clone https://github.com/Kjjustin/DigiFarmer.git
+- **Navigate to the project folder**: cd DigiFarmer
+- **Install dependencies**: pip install -r requirements.txt
+- **Run the application**: python app.py
 ## Usage
 - Open your browser and go to http://localhost:5000.
 - You can generate, scan, and manage QR codes linked to farmers.
