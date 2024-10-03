@@ -16,33 +16,21 @@
 
 ## Installation
 - **Clone the repository**:git clone https://github.com/Kjjustin/DigiFarmer.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd DigiFarmer
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python app.py
-Usage
-Open your browser and go to http://localhost:5000.
-You can generate, scan, and manage QR codes linked to farmers.
-Contributing
+- **Navigate to the project folder**:cd DigiFarmer
+- **Install dependencies**:pip install -r requirements.txt
+- **Run the application**:python app.py
+## Usage
+- Open your browser and go to http://localhost:5000.
+- You can generate, scan, and manage QR codes linked to farmers.
+## Contributing
 Fork the repository.
-Create a feature branch.
-Make changes and submit a pull request.
-License
-This project is licensed under the MIT License.
+- Create a feature branch.
+- Make changes and submit a pull request.
+## License
+- This project is licensed under the MIT License.
 
-Contact
-For questions, contact K J Justin.
+## Contact
+- For questions, contact K J Justin.
 
 
 
