@@ -14,21 +14,31 @@
 - **Database**: [Database used, e.g., MySQL]
 - **QR Code Generation**: [Libraries used for QR code generation]
 
-## Installation
-1. Clone the repository:
-   git clone https://github.com/Kjjustin/DigiFarmer.git
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Kjjustin/DigiFarmer.git
 Navigate to the project folder:
+
+bash
+Copy code
 cd DigiFarmer
 Install dependencies:
+
+bash
+Copy code
 pip install -r requirements.txt
 Run the application:
+
+bash
+Copy code
 python app.py
 Usage
-Once the application is running, open your browser and go to http://localhost:5000. You can generate, scan, and manage QR codes linked to farmers.
-
+Open your browser and go to http://localhost:5000.
+You can generate, scan, and manage QR codes linked to farmers.
 Contributing
-We welcome contributions! Please follow these steps:
-
 Fork the repository.
 Create a feature branch.
 Make changes and submit a pull request.
@@ -37,8 +47,6 @@ This project is licensed under the MIT License.
 
 Contact
 For questions, contact K J Justin.
-Feel free to adjust the sections to better reflect your project's specifics!
-
 
 
 
