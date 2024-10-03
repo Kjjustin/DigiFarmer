@@ -14,12 +14,8 @@
 - **Database**: [Database used, e.g., MySQL]
 - **QR Code Generation**: [Libraries used for QR code generation]
 
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/Kjjustin/DigiFarmer.git
+## Installation
+- **Clone the repository**:git clone https://github.com/Kjjustin/DigiFarmer.git
 Navigate to the project folder:
 
 bash
